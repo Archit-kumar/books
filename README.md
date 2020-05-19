@@ -1,5 +1,21 @@
 # bookassignment
-#steps to run the application
+Restful Solution is desgined the based on MVC architecure.
+
+    - There is Book controller to handle all the request.
+
+    - Domain layer : contains all the db entities.
+    
+    - Repository : contain the logic to interact with the database
+    
+    - Request/Response : contains all the data models(json) used in request and response
+    
+    - Service Layer : where all the business logic resides.
+    
+    - Config - contains all configuration like swagger , rest template to call third party api.
+            
+ 
+
+#steps to run the application in docker container
 
 Step 1 : Go to the root directory and package the build using following command.
 
