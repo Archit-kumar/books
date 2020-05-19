@@ -23,7 +23,7 @@ API Documentation :
 
 Database -
 
-    Postgres db has used in this application
+    Postgres db is used in this application
 
 Ports : 
 
