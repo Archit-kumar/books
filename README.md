@@ -17,7 +17,7 @@ Now you have successfully deplyed you applicaion on dokcer containers.
 
 API Documentation :
 
-    you can find the all api's those are expose on the following url of swagger
+    you can find all exposed api's documentation on the following url of swagger
 
     http://localhost:8081/swagger-ui.html
 
